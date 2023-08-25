@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Cliente prueba",
+      "empresa": "Empresa prueba",
+      "email": "email@email.com",
+      "telefono": "123456789",
+      "notas": "Esto es una nota",
+      "id": 1
+    }
+  ]
+}
